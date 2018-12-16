@@ -4,7 +4,7 @@
   "start_url" : "https://domeniqque.github.io/scrum-poker/index.html",
   "display" : "fullscreen",
   "background_color" : "#ffffff",
-  "theme_color" : "#4DBA87",
+  "theme_color" : "#6d5bf0",
   "lang" : "Portuguese",
   "orientation" : "portrait",
   "description" : "A scrum poker tool",
