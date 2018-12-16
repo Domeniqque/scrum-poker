@@ -42,7 +42,7 @@ export default {
 }
 
 .card:focus::before {
-  animation: click_effect 0.8s ease-out;
+  animation: click_effect 0.2s ease-out;
 }
 
 .card p {
@@ -50,5 +50,6 @@ export default {
   margin: 40px 0;
   color: var(--primary-color);
   font-weight: 300;
+  cursor: not-allowed;
 }
 </style>
