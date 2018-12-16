@@ -14,8 +14,8 @@ export default {
 <style scoped>
 .card {
   display: inline-block;
-  box-shadow: 1px 3px 5px rgba(0,0,0,0.2);
-  margin-left: 10px;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+  margin: 5px;
   display: flex;
   align-items: center;
   justify-content: center;

@@ -60,7 +60,6 @@ main {
   text-align: center;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin: 0 10px;
 }
 
 @media screen and (min-width: 540px) {
